@@ -1,0 +1,67 @@
+[1.12346,2.12346,3.12346]
+
+3.12346
+2.12346
+1.12346
+[0.3,0.7,0.4]
+
+[0.2,0.5,0.8]
+
+v1 . v2 = 0.73
+[-2.77556e-017,-5.55112e-017,0] (*** NULL ***)
+
+Now v7 contains something.
+[-0.263,-0.037,0.262]
+
+Now v7 must be a null vector.
+[-2.77556e-017,-5.55112e-017,0] (*** NULL ***)
+
+[-0.263,-0.037,0.262]
+
+[0.248,0.62,0.992]
+
+[0.511,0.657,0.73]
+
+[-0.263,-0.037,0.262]
+
+Creating a different v7 object
+[0.4,0.6,0.9]
+
+Its magnitude = 1.15326
+v5 vector is:
+[0.248,0.62,0.992]
+
+Its magnitude is: 1.19581
+Storing unit vector corresponding to v7 in v5
+v5 vector NOW is changed to:
+[0.346844,0.520266,0.780399]
+
+Its magnitude is: 1
+[0.3,0.5,0.7]
+
+[0.1,0.9,0]
+
+Unit vector p: [0.110432,0.993884,0]
+
+Magnitude of p is: 1
+Magnitude of pp is: 0.905539
+[0.110432,0.993884,0]
+
+magnitude of e = 1
+First result is: 
+[-2.77556e-017,-8.32667e-017,-9.02056e-017] (*** NULL ***)
+
+
+Second result is: 
+-3.55271e-015
+Third result is: 
+[8.32667e-017,-2.22045e-016,-2.22045e-016] (*** NULL ***)
+
+Fourth result is: 
+[-1.11022e-016,-8.88178e-016,-3.33067e-016] (*** NULL ***)
+
+Fifth result is: 
+[-2.22045e-016,-6.66134e-016,-4.44089e-016] (*** NULL ***)
+
+** Elapsed time ** : 0.05 s
+Program E:\USER\PREMA\LANGS\CPP\CLASSES\AVECTOR\VECTEST\DEBUG\VECTEST.EXE completed successfully :-)

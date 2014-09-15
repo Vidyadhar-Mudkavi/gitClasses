@@ -1,0 +1,113 @@
+DEBUG is on
+VECTOR_DEBUG is on
+VECTOR_CHECKBOUNDS is on
+VECTOR_STOP_ON_ERROR is on
+[1.12346,2.12346,3.12346]
+
+3.12346
+2.12346
+1.12346
+[0.3,0.7,0.4]
+
+[0.2,0.5,0.8]
+
+v1 . v2 = 0.73
+[-2.77556e-017,-5.55112e-017,0] (*** NULL ***)
+
+Now v7 contains something.
+[-0.263,-0.037,0.262]
+
+Now v7 must be a null vector.
+[-2.77556e-017,-5.55112e-017,0] (*** NULL ***)
+
+[-0.263,-0.037,0.262]
+
+[0.248,0.62,0.992]
+
+[0.511,0.657,0.73]
+
+[-0.263,-0.037,0.262]
+
+Creating a different v7 object
+[0.4,0.6,0.9]
+
+Its magnitude = 1.15326
+v5 vector is:
+[0.248,0.62,0.992]
+
+Its magnitude is: 1.19581
+Storing unit vector corresponding to v7 in v5
+v5 vector NOW is changed to:
+[0.346844,0.520266,0.780399]
+
+Its magnitude is: 1
+v5 has been set to: [3.21,42.02,5.2019]
+
+ magnitude is: 42.4623
+v5 now stores the direction (unit vector).
+v5 now is: [0.0755965,0.989584,0.122506]
+
+ magnitude is: 1
+v5 now is: [1,1,1]
+
+after adding to itself many times v5 is: [4,4,4]
+
+[0.3,0.5,0.7]
+
+[0.1,0.9,0]
+
+Unit vector p: [0.110432,0.993884,0]
+
+Magnitude of p is: 1
+Magnitude of pp is: 0.905539
+[0.110432,0.993884,0]
+
+magnitude of e = 1
+First result is: 
+[-2.77556e-017,-8.32667e-017,-9.02056e-017] (*** NULL ***)
+
+
+Second result is: 
+0
+Third result is: 
+[1.38778e-016,-1.11022e-016,-1.11022e-016] (*** NULL ***)
+
+Fourth result is: 
+[1.11022e-016,0,1.11022e-016] (*** NULL ***)
+
+Fifth result is: 
+[-5.55112e-017,-2.22045e-016,-2.22045e-016] (*** NULL ***)
+
+v100 and v101 are
+[1,2,3]
+
+[1,2,3]
+
+only v101 changed. now they are
+[1,2,3]
+
+[1,2,6]
+
+v101 assigned to v100. now they are
+[1,2,3]
+
+[1,2,3]
+
+Before ModifyVector call [1,2,3]
+
+After ModifyVector call [1,2,7]
+
+---------
+calling Func A: 
+(after call) [1,3,7]
+
+---------
+calling Func B: 
+(after call) [1,3,7]
+
+Type in three values: 
+After input: [1,2,3]
+
+The triple scalar product is: 7.95808e-013
+** Elapsed time ** : 9.12 s
+Program F:\USER\PREMA\LANGS\CPP\CLASSES\AVECTOR\WSVECT~1\PVECAPP\DEBUG\PVECAPP.EXE completed successfully :-)
