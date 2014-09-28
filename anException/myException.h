@@ -14,7 +14,9 @@
 
   *Authors: Premalatha, Vidyadhar Mudkavi, CTFD, NAL
 
-  *Date:    February 18, 2000
+  *Date:    
+            2014-09-28 - Pushed to GitHub under gitClasses
+            February 18, 2000
   */
 
 // system includes
